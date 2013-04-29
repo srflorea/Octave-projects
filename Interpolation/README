@@ -1,0 +1,8 @@
+This project was made in Octave GNU.
+The scope of this project was to evaluate the interpolation and aproximation
+polynoms and the performances of those.
+Obiectives:
+	- analyze the convergence of the interpolation polynoms
+	- compare the interpolation and aproximation polynoms for continuous and
+	discreet case
+	- estimate the error done in the interpolation process
