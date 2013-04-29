@@ -1,0 +1,6 @@
+This project was done in Octave GNU.
+The project uses methods of numerical integration for discreet numerical function,
+extends the integration through directly methods from 2D in 3D for volumes
+computations, uses new methods of numerical integration through Monte-Carlo 
+techniques. 
+
